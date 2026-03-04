@@ -1,0 +1,73 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/tallerv.json",
+        "title": "Taller V"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Ws-lCslZyzrQu2JATsz6s2webf2BBVA2/view?usp=sharing",
+        "title": "Diagrama de bloque F411"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1tU3gsPHYXeOXCtBbhzHH0mNVZqCljvPU/view?usp=sharing",
+        "title": "Diagrama de pines F411"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1yZp7SDp_rth17hz3A_S-qXh1crNGkECx/view?usp=sharing",
+        "title": "Manual de referencia F411"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1q1y00OTg863f4ZhWbPDXiDLRRa3WytYG/view?usp=sharing",
+        "title": "Datasheet F411"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1mCI0PRkwKL-4oLv9N9XPg2Kbja0oyTUV/view?usp=sharing",
+        "title": "Boards STM32"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1VbMdLRr9_nh7nToqj2VoOlH4CuCkYDos/view?usp=sharing",
+        "title": "Manual de programación M4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1WRx3MOyEdiQJjUnA17fhXP4ACV3b7_bi/view?usp=sharing",
+        "title": "Manual de Drivers (HAL y LL)"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1VXlTSiGHZksofvmXBVMSo_4--ljRuLqU/view?usp=sharing",
+        "title": "Errata F411"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1udESprU9ChDI7OfOHuqFTUC72LXxqGXR/view?usp=sharing",
+        "title": "Diagrama de referencia F411"
+    }
+]

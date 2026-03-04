@@ -269,7 +269,9 @@
         "credits": 5,
         "prerequisite": "4,20",
         "subject_code": "24",
-        "category": "if"
+        "category": "if",
+        "link": "JSON/Subjects/tallerv.json",
+        "afterElement": true
     },
     {
         "type": "FolderButton",

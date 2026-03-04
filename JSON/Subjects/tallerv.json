@@ -1,0 +1,45 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+     {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/tallerv_stm32.json",
+        "title": "Documentos técnicos STM32"
+    },
+    {
+        "type": "IndexButton",
+        "title": "Códigos en C"
+    },
+    {
+        "type": "IndexButton",
+        "title": "Códigos en C++"
+    },
+    {
+        "type": "IndexButton",
+        "title": "Proyectos STM32"
+    }
+]
