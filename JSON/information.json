@@ -1,0 +1,34 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/legal.json",
+        "title": "Legal"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "ButtonGrid",
+        "columns": 1
+    },
+    {
+        "type": "AboutSection",
+        "title": "OBJETIVO DEL SITIO",
+        "content": "<strong>COMUNIDAD IF</strong> es un sitio web creado con el fin de proporcionar recursos académicos e informativos útiles para los estudiantes de Ingeniería Física de la Universidad Nacional de Colombia sede Medellín. <br>Dichos recursos han sido creados y/o recopilados por otros estudiantes de la carrera y en la medida de lo posible siempre se dará créditos a el o los autores. <br> El creador del sitio no se hace responsable por el uso inadecuado de los recursos, evite caer en plagio y utilícelos únicamente como apoyo en su proceso de aprendizaje. <br>Si usted tiene algún recurso que considere de utilidad y quiera compartir, desea reportar algún error o sugerencia, quiere que se den créditos a su autor por algún recurso o es dueño de algún recurso y desea que sea retirado del sitio puede ponerse en contacto a través del correo electrónico: <a href='mailto:dvargasar@unal.edu.co'>dvargasar@unal.edu.co</a>."
+    }
+]

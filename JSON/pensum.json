@@ -1,0 +1,40 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/14n3aNTYUsfdWCG2mLaDr4mHtR7KO_OnY/view?usp=sharing",
+        "title": "Pensum oficial",
+        "autor": "Departamento de Física"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1qgYiL0kNKktCGFRSf0rk8O-5x0ZaeGfV/view?usp=sharing",
+        "title": "Pensum ampliado",
+        "autor": "Autor: Daniel Vargas"
+    }
+]

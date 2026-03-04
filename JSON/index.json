@@ -1,0 +1,36 @@
+[
+  {
+    "type": "header"
+  },
+  {
+    "type": "button-grid"
+  },
+  {
+    "type": "IndexButton",
+    "link": "JSON/subjects.json",
+    "imageSrc": "Images/resources.png",
+    "imageAlt": "Icon Resources",
+    "title": "Recursos académicos"
+  },
+  {
+    "type": "IndexButton",
+    "link": "JSON/legal.json",
+    "imageSrc": "Images/legal.png",
+    "imageAlt": "Icon Legal",
+    "title": "Información legal"
+  },
+  {
+    "type": "IndexButton",
+    "link": "JSON/comunity.json",
+    "imageSrc": "Images/whatsapp.png",
+    "imageAlt": "Icon Comunity",
+    "title": "Comunidad IF"
+  },
+  {
+    "type": "IndexButton",
+    "link": "JSON/information.json",
+    "imageSrc": "Images/information.png",
+    "imageAlt": "Icon Information",
+    "title": "Información"
+  }
+]

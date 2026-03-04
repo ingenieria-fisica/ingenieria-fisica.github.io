@@ -1,0 +1,48 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1eztOP2Pqmo03khZHz_ua4Fkyxx2_vP64/view?usp=sharing",
+        "title": "Acuerdo 014 de 2017"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1VRoTOtKcO4YMZMDJu9h05Dqet2a-gUlA/view?usp=sharing",
+        "title": "Acuerdo 014 de 2025"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/pensum.json",
+        "title": "Pensum"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/15HbfxjNvrOlPzc6lPLsae3SAzV_oaYYf/view?usp=sharing",
+        "title": "Calendario 2026"
+    }
+]

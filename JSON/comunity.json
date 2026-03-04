@@ -1,0 +1,60 @@
+[
+  {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/legal.json",
+        "title": "Legal"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://chat.whatsapp.com/KZJw2NoCzbYJQwwuukilOg",
+        "imageSrc": "Images/facultad_ciencias.png",
+        "imageAlt": "Icon Facultad de Ciencias",
+        "title": "Facultad de ciencias 🤍",
+        "comunity": true
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://chat.whatsapp.com/KIpmBGMmlNxLY0kghAnxiP",
+        "imageSrc": "Images/ING_FISICA.jpg",
+        "imageAlt": "Icon ING. FISICA",
+        "title": "Ingeniería Física UN 👩🏻‍🔬👨🏻‍🔬",
+        "comunity": true
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://chat.whatsapp.com/CWZmFdKBNQT6FTtvasMQjV",
+        "imageSrc": "Images/UN_circle.png",
+        "imageAlt": "Icon UN Circle",
+        "title": "Ing. física UNAL_Med",
+        "comunity": true
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://chat.whatsapp.com/LK9b7mujyu68hLmrx6MJ8L",
+        "imageSrc": "Images/Salir.jpg",
+        "imageAlt": "Icon Salir acompanados",
+        "title": "Salir acompañados UnalMed",
+        "comunity": true
+    }
+]
