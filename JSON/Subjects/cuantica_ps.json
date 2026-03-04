@@ -1,0 +1,40 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/cuantica.json",
+        "title": "Cuántica"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1JJ-PLbawbQLPgExB-2VdMMijtiHp_olW/view?usp=sharing",
+        "title": "Taller 1",
+        "autor": "Autor: Jairo Marín"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/19wT3f1HIYOrqlVLjb6lGV_v6k7iAVn0J/view?usp=sharing",
+        "title": "Taller 2",
+        "autor": "Autor: Jairo Marín"
+    }
+]

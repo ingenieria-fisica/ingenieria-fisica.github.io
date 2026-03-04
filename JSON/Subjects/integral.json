@@ -1,0 +1,44 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+        {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Lia1jJPnZu7vM7n3BnZNQPl_YCXNkkWF/view?usp=sharing",
+        "title": "Notas de curso",
+        "autor": "Autor: Hugo Arbelaéz"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/integral_test.json",
+        "title": "Parciales"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/integral_ps.json",
+        "title": "Talleres"
+    }   
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "folder-grid",
+        "columns": 5,
+        "rows": 2
+    },
+    {
+        "type": "FolderButton",
+        "title": "Administración de Servidores",
+        "category": "if",
+        "prerequisite": "4",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Análisis de Señales",
+        "category": "if",
+        "prerequisite": "17,24",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Comunicaciones Inalámbricas",
+        "category": "if",
+        "prerequisite": "24",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Fundamentos de Robótica",
+        "category": "if",
+        "prerequisite": "24",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Instrumentación Electrónica",
+        "category": "if",
+        "prerequisite": "20",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Instrumentación Nuclear",
+        "category": "if",
+        "prerequisite": "27",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Instrumentación Virtual",
+        "category": "if",
+        "prerequisite": "4,16",
+        "credits": "4"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Instrumentos Ópticos",
+        "category": "if",
+        "prerequisite": "26",
+        "credits": "4"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Opto-electrónica",
+        "category": "if",
+        "prerequisite": "26",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "link": "JSON/Subjects/simulaciones.json",
+        "title": "Simulaciones",
+        "category": "if",
+        "afterElement": true,
+        "prerequisite": 8,
+        "credits": 3
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1SooXie7AVs3K62cdMwKBWbNxELiGC0PL/view?usp=sharing",
+        "title": "Parcial 1 2023-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1KpdPpR_HyySAyyPOkQ9c-54OdftsKTKd/view?usp=sharing",
+        "title": "Parcial 2 2023-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1zI6MEhNC65EXewRq4amEv1t0mNrTwStI/view?usp=sharing",
+        "title": "Parcial 3 2023-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1MDTtTreY5VnkcC5zTI8hBYbyJ7I55-JV/view?usp=sharing",
+        "title": "Parcial 4 2023-1"
+    }
+]

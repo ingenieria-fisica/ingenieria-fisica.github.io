@@ -1,0 +1,183 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/simulaciones.json",
+        "title": "Simulaciones"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1lb46ivHeWsQ95jvzScTCIrPa16uzIttP/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/11uQVdI5INsKJR2NNzTnh2qvuTpDeaC88/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1eJNOoqWXeZ0J1pg8lqg55v_gt3HPBDX3/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1cYh-M1ecLFjhOKJZMEYtqxok1scpTjlw/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1VcYSWZTEksvJioSZ5wVKusnbZ333cA8d/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1Uh_24Icv6qmUXl2qGsl5p9iNqSMnz-_U/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 6"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/11BhrlHRVXgoO_w9VtxRvPzoTkuh_gHgq/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1R1UL5lIsELdzsHmwiL4UPnzzPQyvHC9Z/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1seC4cVmNhHrLoagxk7nrHTW9rRcBevIJ/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1sdH1oudfJeh70VqY5slgHn6aMVyW0Xer/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1iAJVuxEAaht35vPivWnsODRBDB5HdQJ4/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1-7X0KYQ8tHCxIdyHXQg2i0KReApVo27Y/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 12"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1lPsT7kOU_7LRi6J-HqiQ4oupOfM6oJVC/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 13"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1mEPx-qrkPdqSERGHnVZm9slXFUMbrG7q/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 14"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1u5mlJUfhaZcF1-X5I3f9gX8C1ZsNdfhw/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 15"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/16e7mK9ZeMwqbBhqJIOqSzPzusLEk3L8y/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 16"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1AeumauDXCTP-4QVqSAjfttMz4dJLlXe_/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Módulo 17"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1GrTsFWSDQfK-7kLqj-WEV9lXuPPmPycL/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1AsGHr7nybTUnLbno9RxQ-Oum00zHB6i3/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1MR5uekIIuPrqJToe22cB4EyjVwRUe_gM/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1rhhha7zzMfEXGI2MTj6SJvBy3a3RnEEE/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1fVbN-0zoVh5Dea-yGsPUZJSJ8ZHHKSGi/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1LLzkaxl_CQOVKofYISwgP782nKiFsRqx/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 6"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1V0VZr_R0Q61L0al7RgC_1xP9GutdGvAG/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1Arexco9iUBfxIOTeS-_NWj3MU3LRvliy/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "IoT con ESP32 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1RV1N_rGSwToegODzX-tgTB-g-8XEvqQi/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1RV1N_rGSwToegODzX-tgTB-g-8XEvqQi/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1HQVbX4imDqhiZyW3yZwHvV7b2AfouQcw/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1jUTwgRJ5zs-s5GvOJvYGctjAgQc3N-QT/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1NPSzYms72TUgt_dCy4RfBsPmzEFwJKcr/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/document/d/1FpK_nQTFPrakopeiUyXBLOoP-vfd9kgt/edit?usp=sharing&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Anexo 6"
+    }
+]

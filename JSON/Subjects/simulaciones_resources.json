@@ -1,0 +1,88 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/simulaciones.json",
+        "title": "Simulaciones"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1xhKh4fLJgDREZNhiuV8UhPh6X6YS1JZZ/view?usp=sharing",
+        "title": "Códigos Arduino"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/14bRATpZI2_lF5wNHM5Ki7vFXGXM2qpP8/view?usp=sharing",
+        "title": "Librerías Java"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1XZ95KXcH4tjvv5SOfOnt4EQfZQi4vxrg/view?usp=sharing",
+        "title": "Recursos del módulo 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1QxUgpjHcQ183KJTMhOGetHQsWFlSEGtB/view?usp=drive_link",
+        "title": "Recursos del módulo 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1_ZGh9rqwTAvyAW76MT0RJaz2PNnQsqka/view?usp=sharing",
+        "title": "Recursos del módulo 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1EWaRFHvwJHomMvjA5JEFVM9NmjYQvrps/view?usp=sharing",
+        "title": "Recursos del módulo 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1PUTxvVYDS8OzNgBpKzF_ILdEHDzlFebK/view?usp=sharing",
+        "title": "Recursos del módulo 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1SkC0cUKChwzOMN0-Bk7ry9sMPHxo0wRc/view?usp=sharing",
+        "title": "Recursos del módulo 12"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Y9cgCaEK-hYS-F8OAkJfoyoZ_stV4kgP/view?usp=sharing",
+        "title": "Recursos del módulo 13"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/11u_GhGpXYE8A0U8GCiEg1uPzgeirzR3r/view?usp=sharing",
+        "title": "Recursos del módulo 14"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1q30OIiqpmgoAs9IwNeBErVWF6LGCkX3c/view?usp=sharing",
+        "title": "Recursos del módulo 15"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1TPZt8eq0yTZXmjrBRWfJFPLo1XIeTZQl/view?usp=sharing",
+        "title": "Recursos del módulo 16"
+    }
+]

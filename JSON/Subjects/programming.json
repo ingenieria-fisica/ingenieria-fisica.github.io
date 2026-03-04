@@ -1,0 +1,80 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "folder-grid",
+        "rows": 2,
+        "columns": 4
+    },
+
+    {
+        "type": "FolderResource",
+        "title": "C",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "C++",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "HTML",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "Java",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "JavaScript",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "Linux",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "Python",
+        "category": "science",
+        "afterElement": false
+    },
+    {
+        "type": "FolderResource",
+        "title": "Repositorios Platzi",
+        "link": "https://github.com/orgs/platzi/repositories?type=all",
+        "category": "science",
+        "afterElement": true
+    }
+]

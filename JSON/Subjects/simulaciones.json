@@ -1,0 +1,45 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/instrumentation.json",
+        "title": "Instrumentación"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/simulaciones_modules.json",
+        "title": "Módulos",
+        "autor": "Autor: Diego Aristizábal"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/simulaciones_resources.json",
+        "title": "Recursos",
+        "autor": "Autor: Diego Aristizábal"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/programming.json",
+        "title": "Otros recursos de programación"
+    }
+]

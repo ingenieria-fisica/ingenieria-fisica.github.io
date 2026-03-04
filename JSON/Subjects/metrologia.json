@@ -1,0 +1,44 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/130vUc8xwQn7Ak7ZTPVRv5kWDk6JB3Nt1/view?usp=sharing",
+        "title": "Resumen",
+        "autor": "Autor: Valentina Lopera"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Y7XsSmEJq_v4SLG29DLclKhCwi8OJmv9/view?usp=sharing",
+        "title": "Parciales viejos"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/metrologia_cer.json",
+        "title": "Certificados de calibración"
+    }
+]

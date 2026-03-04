@@ -1,0 +1,64 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/metrologia.json",
+        "title": "Metrología"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1S412UAlkUX5MZPq3xB47z6hfvq9SiNBi/view?usp=sharing",
+        "title": "Manómetros (Comentado)",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://www.overleaf.com/read/dxcmsqmtcbzj#d7b6bd",
+        "title": "Manómetros (Código LaTeX)",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1SqSa0nCEnCbnyeD92QksaARJ2d63BqnQ/view?usp=sharing",
+        "title": "Termómetros",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://www.overleaf.com/read/sbfqkmdwqfdn#4d15f8",
+        "title": "Termómetros (Código LaTeX)",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1o8Jh_zwRLNEy4U1ed7z1nwmLZuYWxFNX/view?usp=sharing",
+        "title": "Multímetros",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://www.overleaf.com/read/kdpwjywfxcwj#f19002",
+        "title": "Multímetros (Código LaTeX)",
+        "autor": "Autores: Carolina García, Daniel Vargas"
+    }
+]

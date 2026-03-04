@@ -1,0 +1,163 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/varias.json",
+        "title": "Varias"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Apok1zK2LvkBcrxoQXztyEBqwoKnUWZl/view?usp=sharing",
+        "title": "Repaso 1er parcial"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1zlzgqr7T3QOlGf7WWPXxpVLzv6zlpqeW/view?usp=sharing",
+        "title": "Solucionario Repaso 1er parcial",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1dx8q68MCfbofAymWwZetzxbHkqGnF1xD/view?usp=sharing",
+        "title": "Repaso 2do parcial"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/19Qabh2boSYLEZSLKQ_juCpMEA-9S7dqa/view?usp=sharing",
+        "title": "Solucionario Repaso 2do parcial",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1LA49Wojkz8y3i3LWYoEYzXX972RLdiMa/view?usp=sharing",
+        "title": "Repaso 3er parcial"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1S73FVyAl1bQseTPxMpukDsyvezKhhPfC/view?usp=sharing",
+        "title": "Taller 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1X0pR71GeRtge3CbZMvTnLDP_hHXFeNdz/view?usp=sharing",
+        "title": "Solucionario 1",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1VIliNm4e-zu9u3CutZQ3yBcSMDlQzB9H/view?usp=sharing",
+        "title": "Taller 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1YT5ETVPmxyjDQ0st0bKyJFKS-jBPqfFa/view?usp=sharing",
+        "title": "Solucionario 2",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1yALTwa8Z_3lMtlNoPJU-VeEk-bRJjTtv/view?usp=sharing",
+        "title": "Taller 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/167JSQpR_cNHrDZzVp5KvZSb4_JceMWNk/view?usp=sharing",
+        "title": "Solucionario 3",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GKUPa3rRsWMiMuJrIFCfhJjuDPttqps4/view?usp=sharing",
+        "title": "Taller 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1iKfmRYdKkQjt3f-zifkd8TJ3PEtLOIvj/view?usp=sharing",
+        "title": "Solucionario 4",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1rA3uzeh96LvrzUPSRJdrypQ8qiMzRSGW/view?usp=sharing",
+        "title": "Taller 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1mNuz-ox399Idkq1dnOLOYxSYNXVHmOTI/view?usp=sharing",
+        "title": "Solucionario 5",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1ZJUJU4ney9XUC5_sReP8WF_EWazTVpzi/view?usp=sharing",
+        "title": "Taller 6"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1jzHfJPKlEyI2ODmeG9113HS1sadgtMxI/view?usp=sharing",
+        "title": "Solucionario 6",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1COzg2kVkBQzPOCdRwupFVfXN7Wk88WOK/view?usp=sharing",
+        "title": "Taller 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1S-MXT0XNeuL-5ffU4leha301eBDSg9c5/view?usp=sharing",
+        "title": "Solucionario 7",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1lYQH6aLkHDBtJw1kKZAnias-T9zdB6_L/view?usp=sharing",
+        "title": "Taller 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1T97ijAcyEsZJNLH01E4rxkcvkip3cAMj/view?usp=sharing",
+        "title": "Solucionario 8",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1WSTnQa71p772Fq1ZYkyfJJg5xZQCKGKO/view?usp=sharing",
+        "title": "Taller 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1DtZmhctcRODz2LcQ264_ilbIdy26IhRY/view?usp=sharing",
+        "title": "Taller 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1vTMhKK1bCqDw7VUKzQmwgNWujPOBEbkz/view?usp=sharing",
+        "title": "Taller 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1RrNOpnYn_cb75SKOl-hSFvJWvQ2lRo6r/view?usp=sharing",
+        "title": "Taller 12"
+    }
+]

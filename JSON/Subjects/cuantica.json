@@ -1,0 +1,45 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1StR76M3Gt0x1bGiGvIQU8bz8XnnGuUXe/view?usp=sharing",
+        "title": "Programa del curso",
+        "autor": "Autor: Jairo Marín"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1_Hk4KFIlSbrXpudcQhRkruBBO5hT5b_M/view?usp=sharing",
+        "title": "Fotos del curso organizadas",
+        "autor": "Autores: Camilo Espejo, Juan Manuel Valencia"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/cuantica_ps.json",
+        "title": "Talleres"
+    }
+]
