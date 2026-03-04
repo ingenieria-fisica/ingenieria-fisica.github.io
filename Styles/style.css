@@ -181,6 +181,11 @@ body {
   justify-content: center;
 }
 
+.index-button[activate-hover="false"] {           
+  background-color: #eee;  
+  filter: grayscale(100%);
+}
+
 .index-button:not([activate-hover="false"]):hover {
   background-color: #f0f4f8;
   border-color: #2563eb;
@@ -192,6 +197,8 @@ body {
   transform: translateY(-2px);
   cursor: pointer;
 }
+
+
 
 
 .index-button__name {
