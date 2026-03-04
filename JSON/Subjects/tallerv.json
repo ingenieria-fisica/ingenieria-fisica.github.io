@@ -32,14 +32,17 @@
     },
     {
         "type": "IndexButton",
-        "title": "Códigos en C"
+        "title": "Códigos en C",
+        "activate_hover": false
     },
     {
         "type": "IndexButton",
-        "title": "Códigos en C++"
+        "title": "Códigos en C++",
+        "activate_hover": false
     },
     {
         "type": "IndexButton",
-        "title": "Proyectos STM32"
+        "title": "Proyectos STM32",
+        "activate_hover": false
     }
 ]

@@ -181,7 +181,7 @@ body {
   justify-content: center;
 }
 
-.index-button:hover {
+.index-button:not([activate-hover="false"]):hover {
   background-color: #f0f4f8;
   border-color: #2563eb;
   background: linear-gradient(135deg,
@@ -190,7 +190,9 @@ body {
   border-color: var(--color-header);
   box-shadow: var(--shadow-md);
   transform: translateY(-2px);
+  cursor: pointer;
 }
+
 
 .index-button__name {
   color: var(--color-header);

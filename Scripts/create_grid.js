@@ -93,12 +93,13 @@ class Grid {
 }
 
 class IndexButton {
-    constructor({ link, imageSrc, imageAlt, title, autor }) {
+    constructor({ link, imageSrc, imageAlt, title, autor, activate_hover}) {
         this.link = link;
         this.imageSrc = imageSrc;
         this.imageAlt = imageAlt;
         this.title = title;
         this.autor = autor;
+        this.activate_hover = activate_hover;
     }
     /**
     @returns {HTMLElement}
@@ -127,6 +128,10 @@ class IndexButton {
             autorElement.classList.add('index-button__autor');
             autorElement.textContent = this.autor;
             element.appendChild(autorElement);
+        }
+
+        if (this.activate_hover == false){
+            element.setAttribute('activate-hover','false');
         }
 
         // Evitamos que navegue a otra página
