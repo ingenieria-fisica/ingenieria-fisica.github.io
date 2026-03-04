@@ -1,0 +1,445 @@
+/* ===========================================
+    Reset
+    =========================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* ===========================================
+     Variables
+     =========================================== */
+:root {
+
+  /* Colors */
+  --color-header: #1D5D4E;
+  --color-text-primary: #ffffff;
+
+  --color-folder: #f1c40f;
+  --color-folder-math: #125683;
+  --color-folder-if: #1D5D4E;
+  --color-folder-physic: #be552b;
+  --color-folder-science: #049646;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+
+
+  /* Dimensions */
+
+  --height-header: 150px;
+  --height-header-small: 95px;
+  --height-header-nav: 70px;
+  --width-folder-buttons: 100px;
+  --height-folder-buttons: 50px;
+
+
+  /* Border radius */
+  --radius-buttons: 0.5rem;
+  --radius-folders: 5px;
+  --radius-full: 9999px;
+
+}
+
+
+/* ===========================================
+     Body
+     =========================================== */
+
+
+body {
+  background-image: linear-gradient(rgba(253, 253, 238, 0.6), rgba(253, 253, 238, 0.6)), url('../Images/ING_FISICA.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: 'Share Tech', sans-serif;
+  color: var(--color-header);
+  min-height: 100vh;
+}
+
+
+
+/* ===========================================
+     Header
+     =========================================== */
+
+
+.header {
+  top: 0;
+  position: fixed;
+  background: var(--color-header);
+  border-bottom: 3px solid #00B4D8;
+  padding: 20px 0;
+  margin-bottom: 20px;
+  width: 100%;
+  height: var(--height-header);
+  z-index: 1000;
+}
+
+.header.small {
+  height: var(--height-header-small);
+}
+
+.header.nav {
+  height: var(--height-header-nav);
+}
+
+.header__container {
+  text-align: center;
+  width: 95%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+
+}
+
+.header__name {
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  margin-bottom: 8px;
+  font-family: "Share Tech", "Roboto Mono", monospace, 'Changa One', cursive;
+  font-weight: 700;
+  font-size: clamp(3rem, 3.5rem, 4rem);
+  letter-spacing: 0;
+  width: 100%;
+}
+
+.header__tagline {
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/* ===========================================
+     Navigation bar
+     =========================================== */
+.nav {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.nav__button {
+  flex-grow: 1;
+  width: 25%;
+  height: 100%;
+  margin: 30px;
+  margin: clamp(10px, 20px, 30px);
+  border: 2px solid var(--color-text-primary);
+  border-radius: var(--radius-buttons);
+  align-content: center;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: clamp(0.7rem, 0.8rem, 1.5rem);
+}
+
+.nav__button:hover {
+  text-decoration: none;
+  color: var(--color-header);
+  background: var(--color-text-primary);
+}
+
+
+/* ===========================================
+     Index buttons
+     =========================================== */
+
+
+.button-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  width: 90%;
+  margin: var(--height-header) auto 0 auto;
+  padding: 20px;
+}
+
+
+.index-button {
+  display: flex;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  background: white;
+  border: 1px solid var(--color-gray-lighter);
+  border-radius: var(--radius-buttons);
+  box-shadow: var(--shadow-sm);
+  text-decoration: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.index-button:hover {
+  background-color: #f0f4f8;
+  border-color: #2563eb;
+  background: linear-gradient(135deg,
+      var(--color-white) 0%,
+      #fef3c7 100%);
+  border-color: var(--color-header);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.index-button__name {
+  color: var(--color-header);
+  font-family: 'Changa One', cursive;
+  font-size: 1.25rem;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.index-button__autor {
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 0.7rem;
+  color: black;
+}
+
+
+.index-button__image {
+  text-align: center;
+  width: 60px;
+}
+
+.index-button__name.comunity {
+  font-family: "serif";
+  text-transform: none;
+}
+
+.index-button__image.comunity {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+/* ===========================================
+     Folder grid
+     =========================================== */
+
+
+.folder-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-rows: repeat(3, 1fr);
+  margin-right: 10px;
+  gap: 12px;
+  padding: 20px 20px 20px;
+  grid-auto-flow: row;
+  font-family: 'Changa One', cursive;
+  margin-top: var(--height-header-nav);
+}
+
+
+.semester-index {
+  width: var(--width-folder-buttons);
+  height: 20px;
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: smaller;
+  color: white;
+  margin: 0px 10px 10px 0px;
+  font-family: 'Changa One', cursive;
+}
+
+.folder-button {
+
+  width: var(--width-folder-buttons);
+  height: var(--height-folder-buttons);
+  background-color: var(--color-folder);
+  border-radius: var(--radius-folders);
+  border: 2px solid black;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  padding: 2px 5px 20px 5px;
+  margin: 5px 1px 5px 1px;
+  transition: transform 0.2s;
+  font-size: smaller;
+  font-family: 'Changa One', cursive;
+  text-align: center;
+}
+
+.folder-button::before {
+  content: "";
+  position: absolute;
+  top: -19px;
+  left: 0;
+  width: 40px;
+  height: 15px;
+  background-color: var(--color-folder);
+  border-radius: 5px 5px 0 0;
+  border: 2px solid black;
+}
+
+.folder-button[after-element="true"]::after {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 5px;
+  width: 80px;
+  height: 10px;
+  background-color: #ffffff;
+  border-radius: 5px 5px 0 0;
+  border: 2px solid black;
+}
+
+.folder-button .row-1 {
+  display: flex;
+  justify-content: center;
+  height: 23px;
+  margin: 2px 0;
+  font-size: smaller;
+}
+
+
+.folder-button .row-2 {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  position: absolute;
+  bottom: 5px;
+  width: 110%;
+  padding: 0 5px 0 0;
+  margin-left: -5px;
+  font-size: smaller;
+}
+
+.folder-button[after-element="true"]:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.folder-button:hover {
+  transform: none;
+  cursor: default;
+}
+
+
+.folder-button.math {
+  background-color: var(--color-folder-math);
+}
+
+.folder-button.math::before {
+  background-color: var(--color-folder-math);
+}
+
+
+
+.folder-button.if {
+  background-color: var(--color-folder-if);
+}
+
+.folder-button.if::before {
+  background-color: var(--color-folder-if);
+}
+
+
+
+.folder-button.physic {
+  background-color: var(--color-folder-physic);
+}
+
+.folder-button.physic::before {
+  background-color: var(--color-folder-physic);
+}
+
+
+.folder-button.science {
+  background-color: var(--color-folder-science);
+}
+
+.folder-button.science::before {
+  background-color: var(--color-folder-science);
+}
+
+
+/* ===========================================
+     About section
+     =========================================== */
+
+.about {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 48px 0;
+  width: 100%;
+}
+
+.about__container {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.about__title {
+  text-align: center;
+  color: #1a1a1a;
+  margin-bottom: 2rem;
+}
+
+.about__intro {
+  font-size: 1.25rem;
+  text-align: center;
+  color: #333333;
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+
+
+
+/* ===========================================
+     Smal screens
+     =========================================== */
+
+
+@media (max-width: 480px) {
+
+
+  .header {
+    height: var(--height-header-small);
+    padding: 12px 0;
+  }
+
+  .header__container {
+    padding: 0;
+  }
+
+  .nav__button {
+    margin: 4px;
+    height: 90%;
+  }
+
+  .header__name {
+    font-size: clamp(2rem, 2.3rem, 3rem);
+  }
+
+  .header__tagline {
+    font-size: 0.63rem;
+  }
+
+  .button-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    width: 90%;
+    margin: var(--height-header-small) auto 0 auto;
+    padding: 15px;
+  }
+
+}
