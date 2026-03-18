@@ -1,0 +1,68 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/optica.json",
+        "title": "Óptica"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/16FP3GNgrOW-bBwkxR6_gV_k3pq2vJJfQ/view?usp=sharing",
+        "title": "Solucionario 1 2023-2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1z1G9sYZguLcUMLC4Hz-_2eeQDa90Jbmh/view?usp=sharing",
+        "title": "Solucionario 1 2024-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/11wK-GY2GUrBA9765RPgNFBEhyFYxZM4d/view?usp=sharing",
+        "title": "Solucionario 1 2024-2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1WoORuqlKjoAQbK9IgRxgFepdZJOQebko/view?usp=sharing",
+        "title": "Solucionario 1 2025-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1G6oQ1uDWhlWkKUEPbgurwvrX9jIbnxgw/view?usp=sharing",
+        "title": "Solucionario 2 2023-2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1SQkHgjMfu0L4KZ_M699otCnx2wtjPPUk/view?usp=sharing",
+        "title": "Parcial 3 2024-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1FwnWuQXBbZqb7aQSw3z0NH7UAw6J5T7O/view?usp=sharing",
+        "title": "Solucionario 3 2023-2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1SyezNMQBbRfJJSbaU2Kj3cC6FUFdFfSN/view?usp=sharing",
+        "title": "Solucionario 3 2024-2"
+    }
+]

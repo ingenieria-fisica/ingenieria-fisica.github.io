@@ -1,0 +1,64 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/optica.json",
+        "title": "Óptica"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GF2AhwvmJYh0FfEI_KAoIZJwJ72Ji3WB/view?usp=sharing",
+        "title": "Talleres solucionados",
+        "autor": "Autora: Andrea Sánchez"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/178yyWRsA6yD7QQ2pbj0nekPl6p4gmZNg/view?usp=sharing",
+        "title": "Taller 1.1",
+        "autor": "Autor: Pedro Torres"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GTvLF-475OYPdV9qdajvmjs3HC7CPCUa/view?usp=sharing",
+        "title": "Taller 1.2",
+        "autor": "Autor: Pedro Torres"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GW7mXmFsoa-RaBMoHcqTeC_a8R4kE7oK/view?usp=sharing",
+        "title": "Taller 1 solucionado",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GX0eShZH_4NhGQjWP_FwC5Lc1WNfYR9_/view?usp=sharing",
+        "title": "Ejercicio taller 1",
+        "autor": "Autor: Desconocido"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GAMusWTyqWDuEuz8r8LyVU14GGO7oGwX/view?usp=sharing",
+        "title": "Taller 2 solucionado",
+        "autor": "Autor: Desconocido"
+    }
+]

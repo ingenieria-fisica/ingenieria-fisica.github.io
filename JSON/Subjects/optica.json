@@ -1,0 +1,55 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1c2hdG4zHk3ZJZ6eAlb8X7zPQgiLb4_zV/view?usp=sharing",
+        "title": "Programa del curso",
+        "autor": "Autor: Pedro Torres"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1w0lWPKWHTRscY7vqCH8n6OT04kaSTJBN/view?usp=sharing",
+        "title": "Optics",
+        "autor": "Autores: Klein, Furtak"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/optica_notes.json",
+        "title": "Notas de clase"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/optica_ps.json",
+        "title": "Talleres"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/optica_test.json",
+        "title": "Parciales"
+    }
+]

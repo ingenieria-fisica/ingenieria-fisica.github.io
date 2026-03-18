@@ -367,7 +367,9 @@
         "credits": 3,
         "prerequisite": "17,18",
         "subject_code": "26",
-        "category": "physic"
+        "category": "physic",
+        "link": "JSON/Subjects/optica.json",
+        "afterElement": true
     },
     {
         "type": "FolderButton",

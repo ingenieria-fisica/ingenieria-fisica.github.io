@@ -19,26 +19,22 @@
     },
     {
         "type": "navButton",
-        "link": "JSON/information.json",
-        "title": "Info"
+        "link": "JSON/Subjects/optica.json",
+        "title": "Óptica"
     },
     {
         "type": "button-grid"
     },
     {
         "type": "ResourceButton",
-        "link": "https://drive.google.com/file/d/130vUc8xwQn7Ak7ZTPVRv5kWDk6JB3Nt1/view?usp=sharing",
-        "title": "Resumen",
-        "autor": "Autora: Valentina Lopera"
+        "link": "https://drive.google.com/file/d/1FvNpDRtnyyQa6_9b-n0dFYehEarojsii/view?usp=sharing",
+        "title": "Notas 2023-2",
+        "autor": "Autora: Andrea Sánchez"
     },
     {
         "type": "ResourceButton",
-        "link": "https://drive.google.com/file/d/1Y7XsSmEJq_v4SLG29DLclKhCwi8OJmv9/view?usp=sharing",
-        "title": "Parciales viejos"
-    },
-    {
-        "type": "IndexButton",
-        "link": "JSON/Subjects/metrologia_cer.json",
-        "title": "Certificados de calibración"
+        "link": "https://drive.google.com/file/d/1GRiDxoonfj_foazhW8eR0rskv4OUCsfS/view?usp=sharing",
+        "title": "Notas",
+        "autor": "Autor: Desconocido"
     }
 ]
