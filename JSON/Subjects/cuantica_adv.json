@@ -1,0 +1,40 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/cuantica.json",
+        "title": "Cuántica"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1D2GJTFqjKQGmi4N-oW5YGVghueZoh0Hx/view?usp=sharing",
+        "title": "Programa del curso",
+        "autor": "Autor: Jairo Marín"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1VAwLH4rAd7YHDsAe68CFSarxTc2WgGFG/view?usp=sharing",
+        "title": "Notas de clase (hasta 26/3/2026)",
+        "autor": "Autor: Daniel Vargas"
+    }
+]

@@ -41,5 +41,11 @@
         "type": "IndexButton",
         "link": "JSON/Subjects/cuantica_ps.json",
         "title": "Talleres"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/cuantica_adv.json",
+        "title": "Mecánica Cuántica Avanzada"
     }
+
 ]
