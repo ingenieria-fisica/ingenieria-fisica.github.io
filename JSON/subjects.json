@@ -339,7 +339,8 @@
         "type": "FolderButton",
         "title": "Optativa Ciencias Básicas",
         "credits": 3,
-        "category": "science"
+        "category": "science",
+        "link": "JSON/SUbjects/sciences.json"
     },
     {
         "type": "FolderButton",
@@ -383,7 +384,8 @@
         "type": "FolderButton",
         "title": "Optativa Ciencias Básicas",
         "credits": 3,
-        "category": "science"
+        "category": "science",
+        "link": "JSON/SUbjects/sciences.json"
     },
     {
         "type": "FolderButton",

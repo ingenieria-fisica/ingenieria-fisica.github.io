@@ -1,0 +1,45 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/information.json",
+        "title": "Info"
+    },
+    {
+        "type": "folder-grid",
+        "columns": 5,
+        "rows": 2
+    },
+    {
+        "type": "FolderButton",
+        "title": "Métodos numéricos",
+        "category": "science",
+        "prerequisite": "4",
+        "credits": "3"
+    },
+    {
+        "type": "FolderButton",
+        "title": "Administración de Servidores",
+        "category": "science",
+        "prerequisite": "4",
+        "credits": "3"
+    }
+    
+]
