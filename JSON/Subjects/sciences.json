@@ -29,17 +29,11 @@
     },
     {
         "type": "FolderButton",
-        "title": "Métodos numéricos",
+        "title": "Métodos Numéricos",
+        "link": "JSON/Subjects/numet.json",
         "category": "science",
-        "prerequisite": "4",
-        "credits": "3"
-    },
-    {
-        "type": "FolderButton",
-        "title": "Administración de Servidores",
-        "category": "science",
-        "prerequisite": "4",
-        "credits": "3"
+        "prerequisite": "4,6,7",
+        "credits": "4",
+        "afterElement": true
     }
-    
 ]

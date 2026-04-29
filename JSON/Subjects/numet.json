@@ -1,0 +1,43 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/sciences.json",
+        "title": "Ciencias Básicas"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "IndexButton",
+        "link": "JSON/Subjects/numet_notes.json",
+        "title": "Clases"
+    },
+    {
+        "type": "IndexButton",
+        "title": "Talleres",
+        "activate_hover": false
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://github.com/Dvargasar6/NumericalMethods",
+        "title": "Códigos en Matlab"
+    }
+]
