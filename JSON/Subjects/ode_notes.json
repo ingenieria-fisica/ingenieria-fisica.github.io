@@ -1,0 +1,153 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/ode.json",
+        "title": "Ecuaciones"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Q2hQA8f6uXl5anxtXt7p4FgOcIZ_jtZK/view?usp=drive_link",
+        "title": "Clase 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1_a4AByJCoH7SD9THrrXOSst8Diqmlb2W/view?usp=drive_link",
+        "title": "Clase 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1xrz5B5LeP4xz75B0DEsWzlkKOzWDvyCy/view?usp=drive_link",
+        "title": "Clase 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1NEqYBHe5V9Rm8mXg2BnBdUHqoUhcSWKw/view?usp=drive_link",
+        "title": "Clase 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1q0pyy_8YOKlSu95GaxAhuEnJgupsdfy5/view?usp=drive_link",
+        "title": "Clase 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1AUih7bOsvw405isQ7J4PcDUs-v0b3OeN/view?usp=drive_link",
+        "title": "Clase 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Up6H9faYELhoIFOkgaJHw6gOm3nR1FfU/view?usp=drive_link",
+        "title": "Clase 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/12hAR8To6qfVRlb7aGfkGi7YFieOHLYYD/view?usp=drive_link",
+        "title": "Clase 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/105zx35CtUKSIUYTeAbw3HqxJmQDRF_jI/view?usp=drive_link",
+        "title": "Clase 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1GB4jdovtLLZ9X7PPcu1Yuy3hcbH-o3Rf/view?usp=drive_link",
+        "title": "Clase 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1ANzuMc3SVJ1EUs6nrjsOrh31MfONvqkQ/view?usp=drive_link",
+        "title": "Clase 12"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1aol2VqagC8S0-It58rbdvT161kKxIf9b/view?usp=drive_link",
+        "title": "Clase 13"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/16GQgxptQ3ugR-ZuVDtagIRbFvrSAqAKN/view?usp=drive_link",
+        "title": "Clase 14"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1QrNtI7PmDs2aXOygyJKuBdueDWUqZn6F/view?usp=drive_link",
+        "title": "Clase 15"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1-qKgQFlHEbAf2ncL7SbB9aA7CqrD3AgI/view?usp=drive_link",
+        "title": "Clase 16"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1jUqo5F_TJVoB9MKKmv8INmSkqWa9uaHO/view?usp=drive_link",
+        "title": "Clase 17"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1MPIPXYks99DHQY5WUXuZCzHyx17fDO0r/view?usp=drive_link",
+        "title": "Clase 18"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1op8-yqP6g17Kzda_v3OIyOYRO8OdFJKz/view?usp=drive_link",
+        "title": "Clase 19-1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1q0xjfnrEl7aNA9WheD7cbyPHGUDJrl2B/view?usp=drive_link",
+        "title": "Clase 19-2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1joSQda363fTrr9LLEBhBhTbBrn07SPgW/view?usp=drive_link",
+        "title": "Clase 20"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1JSdc-URaf_II8ZQF4UMqjA6-TJcodXNm/view?usp=drive_link",
+        "title": "Clase 21"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/119aT4I9ZPYGco9CA9QQibbsk9waMR2S1/view?usp=drive_link",
+        "title": "Clase 22"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1mSjei75T8U0vsabCUR5mbqbn4Ehm8Ovu/view?usp=drive_link",
+        "title": "Clase 23"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1MtYm_FquyIaDW3b33fPJPCbH9ITn6Ph4/view?usp=drive_link",
+        "title": "Clase 24"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/102Kx0kTZgvuu-CLTRALONUc3z54-5srw/view?usp=drive_link",
+        "title": "Clase 25"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/ode.json",
+        "title": "Ecuaciones"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1cGJVhOz9aqKBE3TnSXh7RNIo6MO4ej0y/view?usp=drive_link",
+        "title": "Taller 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1JYpQYX7iXmUcrjDjvJT2XtHvE0cuvHke/view?usp=drive_link",
+        "title": "Solución Taller 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1U-jok6tNSGP8qG3jP7hB4w17udbUhd-T/view?usp=drive_link",
+        "title": "Taller 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1NI52khZBzZHhnShSFI907xvkvkN3i7-d/view?usp=drive_link",
+        "title": "Taller 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/143TgBINW5aTAAOJNWZYp25Arg9PJft1_/view?usp=drive_link",
+        "title": "Taller 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1s8pJincxSrd73R9h2twjSvhhnTVHrttO/view?usp=drive_link",
+        "title": "Taller 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1BX3PTDvEMBtUZ7nux_VrEb-bVsVM1D0a/view?usp=drive_link",
+        "title": "Taller 6"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/189Wdxhwu24igM-qwDVzzxE22LHdArIsu/view?usp=drive_link",
+        "title": "Taller 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1wv0fWw8JWnX8B-foa457AQdI_RzFN5nQ/view?usp=drive_link",
+        "title": "Taller 8"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Aj1IqxUkJV3kGwgatkpyhRQNug-zoPXh/view?usp=drive_link",
+        "title": "Taller 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1ON5OMPboTThYvFsxEkVlef0x1VRnzB0_/view?usp=drive_link",
+        "title": "Solución Taller 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1LVPR6CnzV-mN4lr8jVa0foBwdJYTTCL9/view?usp=drive_link",
+        "title": "Taller 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1LIzxDvUEgLAVPnkCpykCQA0TlO-Ts9eY/view?usp=drive_link",
+        "title": "Taller 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1C6kvYFIsQhwlNM0YE9m6347nbDSmBmbp/view?usp=drive_link",
+        "title": "Taller 12"
+    }
+]
