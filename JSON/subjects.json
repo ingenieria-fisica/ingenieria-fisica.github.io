@@ -81,7 +81,9 @@
         "credits": 5,
         "prerequisite": "2",
         "subject_code": "5",
-        "category": "if"
+        "category": "if",
+        "link":"JSON/Subjects/talleri.json",
+        "afterElement":true
     },
     {
         "type": "FolderButton",

@@ -1,0 +1,133 @@
+[
+    {
+        "type": "header nav"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/index.json",
+        "title": "Inicio"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/subjects.json",
+        "title": "Recursos"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/comunity.json",
+        "title": "Comunidad"
+    },
+    {
+        "type": "navButton",
+        "link": "JSON/Subjects/talleri.json",
+        "title": "Taller I"
+    },
+    {
+        "type": "button-grid"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/presentation/d/1Z_Mnd74AFK-IFVb8E5ZS6AMvWRU87854/edit?usp=drive_link&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Clase 1"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1CEuuCeqw-RAiZ26qDFW-LJbyv3OMmEnv/view?usp=drive_link",
+        "title": "Clase 2"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1BjQ-Zo2Z-074_IuZGV4fLLw9ykx1vxBU/view?usp=drive_link",
+        "title": "Clase 3"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1o8mWoHhL7IjMA-kRaInZjCYevsITS1Lt/view?usp=drive_link",
+        "title": "Clase 4"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1QSzFU8I0wgZRRSzx_1ydK3OsSWuLpf-z/view?usp=drive_link",
+        "title": "Clase 5"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1sFyj53mKVaCy2CeCEd7G1XN-Rl5nvihk/view?usp=drive_link",
+        "title": "Clase 6"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1BysFFTPHgnZjclv37jpdhJ_EZLziIbTs/view?usp=drive_link",
+        "title": "Clase 7"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1klc5pri0dqTlsK4EepZWkCOkCFYdSt2N/view?usp=drive_link",
+        "title": "Clase 9"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1Z-yuZvHR4rdjCg1yar3kmiO35cE5cyXk/view?usp=drive_link",
+        "title": "Clase 10"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1rv3tJfj6sjUBARbRD7QlLUWEeTdGcV2C/view?usp=drive_link",
+        "title": "Clase 11"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/166PnEVgQ_w_Spf7cnnuWfzUciUm1zM-j/view?usp=drive_link",
+        "title": "Clase 12"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://docs.google.com/presentation/d/1yPj1jv1n7Z3EqmhHMullTdbj4kK6Wyhf/edit?usp=drive_link&ouid=115927270904827260804&rtpof=true&sd=true",
+        "title": "Clase 13"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1UojarmFnDgATuKJOjF3C3rUhFeGeKxck/view?usp=drive_link",
+        "title": "Clase 14"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1fhuSq3zIrCFu02BuXMY6-mFTBQSkX5r6/view?usp=drive_link",
+        "title": "Clase 16"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1DZ1bAtpQ5gDKJop_oWP0H5LivpKKx1w_/view?usp=drive_link",
+        "title": "Clase 17"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1IiG9zRT1YYHOuG-WoKxOUeqjFgkJ1Dj7/view?usp=drive_link",
+        "title": "Clase 19"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1LyflQQ-MaoAoA3Pj99vv4IKKR7Eq0lkm/view?usp=drive_link",
+        "title": "Clase 20"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1r3Lym8xLe0pPK9RSQDuVye2AAPm9quhC/view?usp=drive_link",
+        "title": "Clase 23"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/18eHroE8Q9odIfiWNIz5f4Cmwob-Sa9bN/view?usp=drive_link",
+        "title": "Clase 25"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1u2GQVdnerATSABndD5fsjdaDTkSao5Qk/view?usp=drive_link",
+        "title": "Clase 26"
+    },
+    {
+        "type": "ResourceButton",
+        "link": "https://drive.google.com/file/d/1a92c7SRju9XpQZUAolJc2Pl_XdZkBziT/view?usp=drive_link",
+        "title": "Clase 27"
+    }
+]
