@@ -32,6 +32,11 @@
     },
     {
         "type": "IndexButton",
+        "link": "JSON/Subjects/ode_notes.json",
+        "title": "Clases"
+    },
+    {
+        "type": "IndexButton",
         "link": "JSON/Subjects/ode_ps.json",
         "title": "Talleres"
     },
