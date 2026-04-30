@@ -148,7 +148,9 @@
         "credits": 4,
         "prerequisite": "6",
         "subject_code": "12",
-        "category": "math"
+        "category": "math",
+        "link":"JSON/Subjects/ode.json",
+        "afterElement": true
     },
     {
         "type": "FolderButton",
