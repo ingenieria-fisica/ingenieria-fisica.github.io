@@ -33,32 +33,14 @@
     },
     {
         "type": "ResourceButton",
-        "link": "https://www.overleaf.com/read/dxcmsqmtcbzj#d7b6bd",
-        "title": "Manómetros (Código LaTeX)",
-        "autor": "Autores: Carolina García, Daniel Vargas"
-    },
-    {
-        "type": "ResourceButton",
         "link": "https://drive.google.com/file/d/1SqSa0nCEnCbnyeD92QksaARJ2d63BqnQ/view?usp=sharing",
         "title": "Termómetros",
         "autor": "Autores: Carolina García, Daniel Vargas"
     },
     {
         "type": "ResourceButton",
-        "link": "https://www.overleaf.com/read/sbfqkmdwqfdn#4d15f8",
-        "title": "Termómetros (Código LaTeX)",
-        "autor": "Autores: Carolina García, Daniel Vargas"
-    },
-    {
-        "type": "ResourceButton",
         "link": "https://drive.google.com/file/d/1o8Jh_zwRLNEy4U1ed7z1nwmLZuYWxFNX/view?usp=sharing",
         "title": "Multímetros",
-        "autor": "Autores: Carolina García, Daniel Vargas"
-    },
-    {
-        "type": "ResourceButton",
-        "link": "https://www.overleaf.com/read/kdpwjywfxcwj#f19002",
-        "title": "Multímetros (Código LaTeX)",
         "autor": "Autores: Carolina García, Daniel Vargas"
     }
 ]
